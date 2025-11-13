@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Huu Viet ANH</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate frontend developer from Viet Nam with 2 years of experience</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
